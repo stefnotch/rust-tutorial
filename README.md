@@ -24,6 +24,11 @@ English or German
 - [GitHub Codespaces](https://github.com/microsoft/vscode-remote-try-rust) are an emergency alternative to an IDE
 
 
+
 ## Course Materials (based on)
 
 - https://google.github.io/comprehensive-rust/
+
+### Bonus notes
+
+- Turn on reborrow hints when explaining that chapter.
