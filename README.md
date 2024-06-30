@@ -29,6 +29,7 @@ English or German
 
 - https://google.github.io/comprehensive-rust/
 
-### Bonus notes
+### Bonus notes for Stefan
 
+- Bring an extension cable (power supply).
 - Turn on reborrow hints when explaining that chapter.
