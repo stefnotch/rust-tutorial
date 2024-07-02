@@ -29,9 +29,9 @@ English or German
 
 
 
-## Course Materials (based on)
+## Course Materials
 
-- https://google.github.io/comprehensive-rust/
+- https://stefnotch.github.io/comprehensive-rust/
 
 ### Bonus notes for Stefan
 
