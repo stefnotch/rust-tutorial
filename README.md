@@ -1,6 +1,6 @@
 # Rust Tutorial
 
-Notes for my in-person Rust tutorial.
+Notes for my in-person Rust tutorial. It is the Google Rust tutorial, [but with fewer days and not quite as much content](https://stefnotch.github.io/comprehensive-rust/).
 
 #### Schedule
 
