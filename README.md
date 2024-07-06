@@ -5,11 +5,11 @@ Notes for my in-person Rust tutorial. It is the Google Rust tutorial, [but with 
 #### Schedule
 
 Day 1: 
-- 11 until 18 on Wednesday
+- 9:30 until 16:30 on Wednesday
 - 3 hours in the morning, 1 hour lunch break, 3 hours in the afternoon
 
 Day 2: 
-- 9 until 16 on Thursday
+- 9:30 until 16:30 on Thursday
 - 3 hours in the morning, 1 hour lunch break, 3 hours in the afternoon
 
 #### Equipment
