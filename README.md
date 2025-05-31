@@ -32,6 +32,7 @@ English or German
 ## Course Materials
 
 - https://stefnotch.github.io/comprehensive-rust/
+- https://cel.cs.brown.edu/crp/
 
 ### Bonus notes for Stefan
 
