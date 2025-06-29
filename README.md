@@ -38,3 +38,4 @@ English or German
 
 - Bring an extension cable (power supply).
 - Turn on reborrow hints when explaining that chapter.
+- https://github.com/cognitive-engineering-lab/aquascope
